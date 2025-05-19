@@ -1,0 +1,3 @@
+Mohd Meraaz,meraaz0809@gmail.com,8989246692,101,Laptop,1,60000,60000,Mon May 19 13:46:20 2025
+Mohd Meraaz,meraaz0809@gmail.com,8989246692,102,Mouse,1,500,500,Mon May 19 13:46:23 2025
+Mohd Meraaz,meraaz0809@gmail.com,8989246692,104,Monitor,1,15000,15000,Mon May 19 13:46:30 2025
